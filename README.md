@@ -4,4 +4,4 @@ Git is free software ...
 test with add -m.
 test merge feature2.
 test new branch dev.
-test stash.
+test stash.+1
